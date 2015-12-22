@@ -1,5 +1,5 @@
 ---
-title: Folder Structure
+title: 'Folder Structure'
 taxonomy:
     category: docs
 ---
