@@ -92,7 +92,7 @@ Other customised changes can easily be achieved by defining your own CSS rules f
 
 #### How do I implement Search Engine Optimisation - SEO - in Joomla?
 
-See [Search engine optimisation (SEO).](../../SEO)
+See [Search engine optimisation (SEO).](../../faq/SEO)
 
 #### How do I register new users to my website and where should they login to use my website?
 
