@@ -2,13 +2,21 @@
 title: 'Menu Tips'
 ---
 
+#### Changing Default Landing Page in Kunena
+
+**Kunena** allows you to change default landing page in your menu. This allows you to have control on what people will see when they enter to the forum.
+
+1) Go to Menu Item Manager: **_Menus -> Kunena Menu_**
+2) Edit the menu item **Forum**
+3) Change Default Menu Item
+
 #### Restore Kunena Menu
 
 A simple remedy for the problem is to use the trash-burn-build technique (see also [Menu Issues](../../troubleshooting/menu-issues)):
 
 1) Trash all existing menus and menu items that relate to your Kunena forum
 2) Empty the menu trash.
-3) Use the Kunena Control Panel: Forum Tools -> Menu Manager -> Restore Kunena Menu facility.
+3) Use the Kunena Control Panel: **_Tools -> Menu Manager -> Restore Kunena Menu_** facility.
 4) Publish the menu item created for you in your top-level/main menu.
 
 #### Changing URL / Menu Alias
@@ -23,14 +31,6 @@ If you want to change menu alias `www.domain.com/forum` to something like `www.d
 
 The menu items (the text contained in the Kunena menu tabs) can easily be edited by using the Joomla Menu Manager.
 **_Menus -> Kunena Menu -> Menu Item -> To alter the Menu Title_**
-
-#### Changing Default Landing Page in Kunena
-
-**Kunena** allows you to change default landing page in your menu. This allows you to have control on what people will see when they enter to the forum.
-
-1) Go to Menu Item Manager: **_Menus -> Kunena Menu_**
-2) Edit the menu item **Forum**
-3) Change Default Menu Item
 
 #### Showing and Hiding Menu Items
 
