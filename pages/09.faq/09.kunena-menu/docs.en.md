@@ -1,5 +1,16 @@
 ---
 title: 'Menu Tips'
+published: true
+process:
+    textformatter: false
+    markdown:
+        - '1'
+        - true
+    twig: '0'
+routable: true
+cache_enable: true
+visible: true
+child_type: default
 ---
 
 #### Changing Default Landing Page in Kunena

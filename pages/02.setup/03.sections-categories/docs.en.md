@@ -72,7 +72,7 @@ For simple sites and memberships this may be adequate. If your site is more comp
 
 If you do choose _Access control type_ "User Groups", this will give you an entirely new set of choices. Only do this if you want more fine-grained control over permissions.
 
->>>>>> In the image below, **Public** means either everyone or only guests depending on the _Include Child Groups_ setting if you havent changed "Guest User Group" from **_Joomla -> Users -> User_**.
+>>> In the image below, **Public** means either everyone or only guests depending on the _Include Child Groups_ setting if you havent changed "Guest User Group" from **_Joomla -> Users -> Manage_**.
 
 **Access control type** to be used in this category.
 **Primary User Group**: The user group that is allowed to view this category. By default access is allowed to everyone who inherits the user group. Alternatively you can restrict access to the specified user group only by setting _Include Child Groups_ No.

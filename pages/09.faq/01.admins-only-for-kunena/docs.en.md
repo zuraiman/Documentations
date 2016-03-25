@@ -26,7 +26,18 @@ The new Group has been created.
 
 ![](kunena_admin.png)
 
-### Step 3: Add Users to the Group
+### Step 3: Access Level
+
+* Click on **Viewing Access Levels**
+* Select **Special**
+
+![](access_levels.png)
+
+* Mark **Kunena Admins & Save**
+
+![](viewing_access.png)
+
+### Step 4: Add Users to the Group
 
 * Go back to the user management
 * Mark your desired users
@@ -34,12 +45,12 @@ The new Group has been created.
 
 ![](add_users_to_the_group_22.png)
 
-* Select User Group
+* Select the User Group **Kunena Admins**
 * Click **Process**
 
 ![](add_656.png)
 
-### Step 4: Permission Setting for this Group
+### Step 5: Permission Setting for this Group
 
 * **_Global Configuration -> (Tab) Permissions_**
 * Site Login - **Allowed**
@@ -49,18 +60,27 @@ The new Group has been created.
 
 ![](permissions_settings_33.png)
 
-### Step 5: Permission Setting for Kunena
+### Step 6: Permission Setting for Kunena
 
-* Go to **_Kunena Dashboard -> Options_**
-
-![](options_m332.png)
-
-* Select - (tab) Kunena Admins
+* Choose on the left **Kunena Forum**
+* Select - (tab) **Kunena Admins**
 * Access Administration Interface - **Allowed**
 * Save & Close
 
 ![](admin_access_3.png)
 
+* Go to **_Kunena Dashboard -> Options_**
+
+![](options_m332.png)
+
+* Also check this setting in the Dashboard
+
+![](admin_access_3.png)
+
+### Finished
+
 If everything was done correctly. then have Kunena Admins backend access but no access to Joomla features.
 
 ![](backend_control_panel.png)
+
+>>> Kunena has no own user management. Kunena uses the user management of Joomla. Kunena and Joomla users are the same. If the Administrators delete users in Kunena are these users deleted also from Joomla.

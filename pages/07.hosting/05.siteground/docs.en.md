@@ -1,19 +1,20 @@
 ---
 title: SiteGround
-process:
-    markdown: true
-    twig: true
-visible: true
+published: true
 taxonomy:
     category:
         - docs
+process:
+    markdown: true
+    twig: true
+child_type: default
+routable: true
+cache_enable: true
+visible: true
 github: true
 ---
 
-{% set release = github.client.api('repo').releases().all('getKunena', 'Kunena')|first %}
-{% set Kunena_version = release['tag_name'] %}
-
-[SiteGround](http://www.siteground.com?afcode=c35a772207a64fd93e92cd5ba6c8109d)'s tag line is **Web Hosting Crafted With Care**, and it is for this reason it has proven a popular hosting solution for people in the Joomla and WordPress communities. It also makes a good option for hosting a Kunena-based web site.
+[SiteGround](http://www.siteground.com/recommended?referrer_id=7246188)'s tag line is **Web Hosting Crafted With Care**, and it is for this reason it has proven a popular hosting solution for people in the Joomla and WordPress communities. It also makes a good option for hosting a Kunena-based web site.
 
 ![](siteground.png)
 
@@ -21,7 +22,7 @@ In this guide we will cover the essentials for configuring a pretty bog-standard
 
 ## Picking your Hosting Plan
 
-At the time of writing, SiteGround offers [three shared hosting options](http://www.siteground.com/web-hosting.htm?afcode=c35a772207a64fd93e92cd5ba6c8109d) ranging from low-end $3.95/month to $14.95/month for what they call the **GoGeek** plan. We strongly suggest going with the higher-end but still very cheap **GoGeek** plan. This provides better server hardware and less _user crowding_ on the server.
+At the time of writing, SiteGround offers [three shared hosting options](http://www.siteground.com/recommended?referrer_id=7246188) ranging from low-end $3.95/month to $14.95/month for what they call the **GoGeek** plan. We strongly suggest going with the higher-end but still very cheap **GoGeek** plan. This provides better server hardware and less _user crowding_ on the server.
 
 ## Configuring PHP
 

@@ -44,9 +44,6 @@ Sometimes you will read about "child boards", but never forget: we are really on
 
 ### Create a new Category
 
-The procedure is the same as [Create a new Section](../../../../manual/backend/categories/new-section-category#create-a-new-section). Only at the second point, there is a difference at _Parent_. Choose an existing section as the parent element from the drop-down list.
+The procedure is the same as [Create a new Section](../../../../manual/backend/categories/new-section-category#create-a-new-section). Only at the second point, there is a difference at _Parent_. Choose an existing section as the parent element from the drop-down list. See also [Sections & Categories](../../../../setup/sections-categories).
 
 >>>>> The default setting for all new categories are: Registered Users can read and write, Guests only read. You can also edit existing categories using the Edit button (or simply click on the category link of the one you want to modify).
-
-
-See also [Sections & Categories](../../../../setup/sections-categories).

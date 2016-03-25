@@ -1,5 +1,12 @@
 ---
 title: '  Transifex'
+published: true
+process:
+    markdown: true
+child_type: default
+routable: true
+cache_enable: true
+visible: true
 ---
 
 ###### _Transifex'' is a modern, open-source localisation platform. It’s a web system which automates the translation workflow for complex international projects._

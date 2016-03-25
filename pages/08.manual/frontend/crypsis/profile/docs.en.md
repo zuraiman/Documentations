@@ -22,8 +22,6 @@ This menu item goes to your personal profile. This tutorial will show you a comp
 
 ![](profile_overview.png)
 
----
-
 ### Edit Profile
 
 #### User Account
@@ -37,8 +35,6 @@ This menu item goes to your personal profile. This tutorial will show you a comp
 7. Frontend Language - Changing is only possible when others languages are installed
 
 ![](profile_edit_1.png)
-
----
 
 #### Profile Information
 
