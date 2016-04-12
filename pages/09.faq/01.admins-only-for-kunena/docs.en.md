@@ -83,4 +83,4 @@ If everything was done correctly. then have Kunena Admins backend access but no 
 
 ![](backend_control_panel.png)
 
->>> Kunena has no own user management. Kunena uses the user management of Joomla. Kunena and Joomla users are the same. If the Administrators delete users in Kunena are these users deleted also from Joomla.
+>>> Kunena has no own user management. Kunena uses the user management of Joomla. Kunena and Joomla users are the same. If the Administrators delete users in Kunena these users are also deleted from Joomla.
